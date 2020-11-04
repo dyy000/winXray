@@ -1,0 +1,5 @@
+{
+updateUrl="https://raw.githubusercontent.com/vuvptch/winXray/master/release/update/";
+description="优化服务器状态检测，修正已知BUG，UI细节优化，最小化不再转托盘图标，增加开机启动选项。 resolved #6";
+outputDir="/release/update/"
+}
